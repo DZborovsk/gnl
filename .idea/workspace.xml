@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="GNL" targetName="GNL" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10e28463-f1da-412c-819e-b8153d67a0ec" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.out" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/C.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/C.includecache" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/get_next_line.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/get_next_line.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_atoi.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_atoi.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_bzero.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_bzero.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_count_num.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_count_num.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_countw.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_countw.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_foreach.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_foreach.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isalnum.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isalnum.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isalpha.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isalpha.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isascii.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isascii.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isdigit.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isdigit.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isprint.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_isprint.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_itoa.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_itoa.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstadd.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstadd.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstdel.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstdel.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstdelone.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstdelone.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstiter.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstiter.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstmap.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstmap.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstnew.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_lstnew.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memalloc.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memalloc.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memccpy.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memccpy.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memchr.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memchr.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memcmp.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memcmp.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memcpy.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memcpy.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memdel.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memdel.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memmove.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memmove.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memset.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_memset.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putchar.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putchar.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putchar_fd.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putchar_fd.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putendl.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putendl.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putendl_fd.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putendl_fd.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putnbr.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putnbr.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putnbr_fd.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putnbr_fd.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putstr.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putstr.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putstr_fd.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_putstr_fd.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_str_swap.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_str_swap.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strcat.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strcat.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strchr.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strchr.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strclr.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strclr.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strcmp.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strcmp.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strcpy.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strcpy.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strdel.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strdel.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strdup.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strdup.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strequ.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strequ.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_striter.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_striter.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_striteri.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_striteri.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strjoin.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strjoin.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strlcat.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strlcat.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strlen.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strlen.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strmap.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strmap.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strmapi.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strmapi.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strncat.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strncat.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strncmp.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strncmp.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strncpy.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strncpy.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strnequ.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strnequ.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strnew.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strnew.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strnstr.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strnstr.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strrchr.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strrchr.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strsplit.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strsplit.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strstr.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strstr.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strsub.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strsub.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strtrim.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_strtrim.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_swap.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_swap.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_tolower.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_tolower.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_toupper.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/libft/ft_toupper.c.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/GNL.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GNL" afterPath="$PROJECT_DIR$/cmake-build-debug/GNL" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GNL.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/GNL.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="get_next_line.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_next_line.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="793" />
+    <option name="y" value="22" />
+    <option name="width" value="1767" />
+    <option name="height" value="1341" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GNL" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="gnl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="language.cpp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GNL">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="GNL" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="Hello" PASS_PARENT_ENVS_2="true" PROJECT_NAME="GNL" TARGET_NAME="GNL" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="GNL" RUN_TARGET_NAME="GNL">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GNL" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10e28463-f1da-412c-819e-b8153d67a0ec" name="Default" comment="" />
+      <created>1530183944478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530183944478</updated>
+      <workItem from="1530183945649" duration="867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="867000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="793" y="22" width="1767" height="1341" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.089855075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985553" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3188406" sideWeight="0.5280899" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964672" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3188406" sideWeight="0.47191012" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/get_next_line.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
