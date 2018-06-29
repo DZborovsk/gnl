@@ -9,6 +9,12 @@
 /Users/dzborovk/gnl/get_next_line.c
 libft/libft.h
 /Users/dzborovk/gnl/libft/libft.h
+fcntl.h
+-
+sys/types.h
+-
+sys/stat.h
+-
 
 /Users/dzborovk/gnl/libft/ft_atoi.c
 
