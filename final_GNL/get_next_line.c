@@ -1,13 +1,24 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: dzborovk <marvin@42.fr>                    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2018/07/16 11:01:12 by dzborovk          #+#    #+#             */
+/*   Updated: 2018/07/16 11:27:59 by dzborovk         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
 
 #include "get_next_line.h"
 
-t_gnl				*ft_create_chained_list(t_gnl *list, int fd)
+t_gnl	*ft_create_chained_list(t_gnl *list, int fd)
 {
 	char	*data;
 
 	data = malloc(sizeof(char) * (BUFF_SIZE + 1));
 	if (!data)
-        return (NULL);
+		return (NULL);
 	data[BUFF_SIZE] = '\0';
 	if (!list)
 	{
@@ -18,13 +29,13 @@ t_gnl				*ft_create_chained_list(t_gnl *list, int fd)
 	return (list);
 }
 
-t_gnl				*ft_return_list_by_fd(t_gnl *current, int fd)
+t_gnl	*ft_return_list_by_fd(t_gnl *current, int fd)
 {
 	char	*data;
 
 	data = malloc(sizeof(char) * (BUFF_SIZE + 1));
 	if (!data)
-        return (NULL);
+		return (NULL);
 	data[BUFF_SIZE] = '\0';
 	while (current->size != fd && current->next)
 		current = current->next;
@@ -38,9 +49,9 @@ t_gnl				*ft_return_list_by_fd(t_gnl *current, int fd)
 	return (current);
 }
 
-char				*ft_read_file(char *str, t_gnl *current, char *clear)
+char	*ft_read_file(char *str, t_gnl *current, char *clear)
 {
-	int				rd;
+	int		rd;
 
 	rd = 0;
 	while (!(ft_strchr(str, '\n'))
@@ -56,7 +67,7 @@ char				*ft_read_file(char *str, t_gnl *current, char *clear)
 	return (str);
 }
 
-int					ft_copy_line(char *str, char *clear, char **line)
+int		ft_copy_line(char *str, char *clear, char **line)
 {
 	if (!ft_strchr(str, '\n'))
 	{
@@ -75,7 +86,7 @@ int					ft_copy_line(char *str, char *clear, char **line)
 	return (1);
 }
 
-int					get_next_line(const int fd, char **line)
+int		get_next_line(const int fd, char **line)
 {
 	static t_gnl	*list;
 	t_gnl			*current;
@@ -85,13 +96,13 @@ int					get_next_line(const int fd, char **line)
 
 	clear = NULL;
 	if (fd < 0 || line == NULL || BUFF_SIZE < 0)
-        return (-1);
+		return (-1);
 	list = ft_create_chained_list(list, fd);
 	current = list;
-	if ((current = ft_return_list_by_fd(current, fd)) && !current)
-        return (-1);
+	if (!(current = ft_return_list_by_fd(current, fd)) && !current)
+		return (-1);
 	if (!(nl = ft_strchr(current->content, '\n')))
-        str = ft_strdup("");
+		str = ft_strdup("");
 	else
 	{
 		*nl = ' ';

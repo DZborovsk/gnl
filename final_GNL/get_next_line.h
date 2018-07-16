@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: dzborovk <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/11/30 13:43:24 by dzborovk          #+#    #+#             */
-/*   Updated: 2017/11/30 14:06:24 by dzborovk         ###   ########.fr       */
+/*   Created: 2018/07/16 11:03:19 by dzborovk          #+#    #+#             */
+/*   Updated: 2018/07/16 11:05:02 by dzborovk         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,13 +20,13 @@
 # include <stdlib.h>
 # include "libft/libft.h"
 
-int   				get_next_line(const int fd, char **line);
+int					get_next_line(const int fd, char **line);
 
 typedef struct		s_gnl
 {
-    char		    *content;
-    int			    size;
-    struct s_gnl	*next;
+	char			*content;
+	int				size;
+	struct s_gnl	*next;
 }					t_gnl;
 
 #endif
